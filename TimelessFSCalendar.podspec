@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "TimelessFSCalendar"
-  s.version          = "2.8.2"
+  s.version          = "2.8.2-t1"
   s.summary          = "A superiorly awesome iOS7+ calendar control, compatible with Objective-C and Swift."
   
   s.homepage         = "https://github.com/timeless-space/FSCalendar"
